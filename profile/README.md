@@ -2,6 +2,6 @@
 
 PHP Stubs helps you in static analysis and IDE autocompletion.
 
-Please consider sponsoring this work
+Please consider sponsoring this work.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ffeff7)](https://github.com/sponsors/php-stubs)
+[![Sponsor](https://github.com/szepeviktor/.github/raw/master/.github/assets/github-like-sponsor-button.svg)](https://github.com/sponsors/php-stubs)
